@@ -1,0 +1,2 @@
+0.15 mm (6 thou) Fits properly. It is not necessary to force the parts to fit together.
+0.20 mm (8 thou) Loose. The components move freely.

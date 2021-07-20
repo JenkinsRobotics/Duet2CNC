@@ -1,0 +1,18 @@
+Printer check list 
+
+Print out calibration cube 
+	calibrate steps 
+		XYZE
+	
+Make sure printer speed is optimal and not skipping steps
+
+Print out calibration circle and check how much clearence is needed for connecting parts 
+		.5 mm Clearence is acceptable (minimal) (snug fit)
+		1 mm loose fit
+		2 mm   (No contact rim)'
+
+
+
+Notes 
+	final layers were going to fast and caused skipping errors  
+		

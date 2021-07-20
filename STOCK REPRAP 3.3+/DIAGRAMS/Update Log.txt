@@ -1,0 +1,18 @@
+Update Log
+
+7/18/17
+	started update log,
+	Testing using Octopus model
+	1) Model had extensive bulges/bumps at retraction sights
+		-cause: determined to be the speed of retraction was to slow causing the printer to pause for a period of time causing the bumps
+		- solution: increased retraction speed from 35mm/s to 60 mm/s
+	2) Ringing problem
+		- Cause: according to information found likey cause is that the acceleration is to high
+		- Solution : Edit the EEMROM to lower the acceleration from 1000mm/s^2 to 900mm/s^2
+
+	3) Updated EEMROM 
+		- noticed some of the values were less then the valused curently being used on Simplify3D
+			changed Retraction from 3mm to 4mm
+			change retraction speed from 40mm/s to 60mm/s
+
+		SAVED EEMROM AS 7/18/17 
